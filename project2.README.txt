@@ -1,3 +1,7 @@
-name, date, description
+Richard Evan Canull, 4/24/2015
 
-be sure to include complete details of how to interact with your application
+Program works with lib in the Common directory in this repository.
+
+Made a 3D cube that can be moved with the arrow keys along the path given the perspective.
+There is a clock to keep track of the time to complete the game.
+As well will notify you if you win.
